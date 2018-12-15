@@ -1,0 +1,4 @@
+Position & fieldname =  rate
+0 40
+295 12
+583 13
